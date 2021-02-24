@@ -6,6 +6,7 @@ env/
 venv/
 venv3/
 .venv/
+.ipynb_*
 
 # Folders
 data/
